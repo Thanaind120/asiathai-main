@@ -1,0 +1,4 @@
+Laravel 8 // Framework
+PHP 7.4 // language
+Font Awesome 5.7 // Icon
+Sweetalert2 // alert popup
